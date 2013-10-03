@@ -1,0 +1,10 @@
+This is simple Gosu game
+Running
+================
+Install gosu gem
+$gem install gosu
+
+Then  run 
+ruby main.rb
+
+
